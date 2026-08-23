@@ -1,6 +1,6 @@
 (function () {
   // ⚙️ À modifier une fois le backend déployé sur Vercel :
-  const API_URL = "https://TON-PROJET.vercel.app/api/chat";
+  const API_URL = "https://paneeolio-chatbox.vercel.app/api/chat";
 
   const STYLE = `
     #po-bubble {
